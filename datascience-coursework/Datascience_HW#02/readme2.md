@@ -1,6 +1,6 @@
 # Data Science HW #02 
 
-Regression & Classification Modeling 
+Applied Data Science (ADS) — Assignment 2: Regression & Classification.
 
 ## Contents
 
