@@ -8,7 +8,7 @@ Each assignment builds on the last — starting from exploratory data analysis a
 
 | # | Repo | Focus |
 |---|---|---|
-| 01 | [Datascience_HW01](https://github.com/meeeeliiiinaaaa/datascience-coursework/datascience-coursework/Datascience_HW01) | EDA, Data Cleaning, Feature Engineering, Web Scraping (bonus) |
+| 01 | [Datascience_HW01](https://github.com/meeeeliiiinaaaa/datascience-coursework/tree/main/datascience-coursework/Datascience_HW%2301) | EDA, Data Cleaning, Feature Engineering, Web Scraping (bonus) |
 | 02 | [Datascience_HW02](https://github.com/meeeeliiiinaaaa/datascience-coursework/datascience-coursework/Datascience_HW02) | Regression & Classification (Binary + Multiclass) |
 | 03 | [Datascience_HW03](https://github.com/meeeeliiiinaaaa/datascience-coursework/datascience-coursework/Datascience_HW03) | Deep Learning — MLP, CNN, RNN/LSTM/GRU, Transformers |
 | 04 | [Datascience_HW04](https://github.com/meeeeliiiinaaaa/datascience-coursework/datascience-coursework/Datascience_HW04) | Generative Models (VAE, GAN, Diffusion), Imbalanced Data, ML Pipelines, XAI |
