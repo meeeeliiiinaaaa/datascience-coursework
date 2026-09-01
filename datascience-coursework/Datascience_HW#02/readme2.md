@@ -6,7 +6,7 @@ Regression & Classification Modeling
 
 | File | Description |
 |---|---|
-| `Datascience_HW#02 - 401101727.ipynb` | Main notebook |
+| `Datascience_HW#02.ipynb` | Main notebook |
 | `pic1.png` – `pic4.png` | Figures referenced/exported in the notebook |
 
 ## Assignment Overview
