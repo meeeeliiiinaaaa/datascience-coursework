@@ -1,5 +1,7 @@
 # Data Science HW #01
 
+Applied Data Science (ADS) — Assignment 1: Exploratory Data Analysis, Data Cleaning, and Feature Engineering on a dataset of choice.
+
 ## Assignment Overview
 
 Applies core data science fundamentals to a self-chosen real-world dataset (real-world/industrial data recommended, e.g. from Kaggle).
@@ -27,7 +29,7 @@ A range of chart types, each with a title, axis labels, and legend:
 - Dimensionality reduction via **PCA**
 - Reflection: *when is feature engineering a nice-to-have vs. a must-have?*
 
-### 4. Web Scraping (Bonus)
+### 4. Web Scraping 
 Scraper collecting 50 "Samand" car listings (manufactured after 1385) from bama.ir — price, mileage, color, production year, transmission type, and description — exported to `.xlsx`.
 
 
