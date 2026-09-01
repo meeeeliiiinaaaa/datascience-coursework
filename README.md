@@ -30,13 +30,3 @@ Web Scraping       Classification)         Transformers)              Imbalance,
 - **Visualization:** Matplotlib, Seaborn, Plotly
 - **Specialized:** XGBoost, LightGBM, CatBoost, HuggingFace Transformers, SHAP, Grad-CAM, imbalanced-learn (SMOTE)
 
-## How to Use
-
-Each repo is self-contained with its own `README.md`, notebook(s), and `requirements.txt`. Clone the one you're interested in:
-
-```bash
-git clone https://github.com/meeeeliiiinaaaa/Datascience_HW0<N>.git
-cd Datascience_HW0<N>
-pip install -r requirements.txt
-jupyter notebook
-```
